@@ -1,0 +1,7 @@
+Name: Trevor Rex
+
+Directory Structure: This directory contains code written for a project called "Bunny World". The code was co-written by me and a teammate named Shelby Marcus; we were each present for every line written and partner programmed the project. We had design choice input from our third teammate Crystal Escolero. The project is a game meant to be run on an Android phone and is a "build a choose your own adventure game" where users can create worlds and then play the games in that world. Users can drag and drop various items from a toolbar onto the screen and choose how these objects interact with each other. Users can create different "rooms" in the world and control how the player navigates between rooms.
+
+Code Description: Backend.java is a structure for data storage and world persistence so that information is stored from use to use. Document.java is a structure for a single document or page that a user can drag items onto. EditorActivity.java allows users to create a new world for players to play the game in. This is where they have access to a toolbar that allows users to drag and drop different items onto the screen and control how the game operates. PlayGame.java is the activity that allows users to play the game they create. Shape.java is a class structure for the different toolbar items. TutorialActivity.java is an activity that shows users how to interact with the different portions of the app.
+
+Date: March 2018
